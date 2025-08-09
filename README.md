@@ -49,4 +49,4 @@ This PCB follows a modular design approach where complex projects are broken dow
 
 ## Author
 
-Made by Eason Smith (Eason@EasonRobotics.com)
+Made by Eason Smith (davideasonsmith@gmail.com)
