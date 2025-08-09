@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![LiPo+ PCB Board](LipoPlsbrd.png)
+![LiPo+ PCB Board](LipoPlusbrd.png)
 *PCB Board Layout*
 
 ![LiPo+ Schematic](LipoPlussch.png)
